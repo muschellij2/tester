@@ -12,3 +12,10 @@ LazyData: true
 RoxygenNote: 6.0.1
 URL: https://github.com/muschellij2/tester
 BugReports: https://github.com/muschellij2/tester/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    tibble,
+    dplyr

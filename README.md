@@ -3,6 +3,8 @@
 status](https://travis-ci.com/muschellij2/tester.svg?branch=master)](https://travis-ci.com/muschellij2/tester)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/muschellij2/tester?branch=master&svg=true)](https://ci.appveyor.com/project/muschellij2/tester)
+[![Coverage
+status](https://codecov.io/gh/muschellij2/tester/branch/master/graph/badge.svg)](https://codecov.io/github/muschellij2/tester?branch=master)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 

@@ -14,7 +14,8 @@ URL: https://github.com/muschellij2/tester
 BugReports: https://github.com/muschellij2/tester/issues
 Suggests: 
     knitr,
-    rmarkdown
+    rmarkdown,
+    covr
 VignetteBuilder: knitr
 Imports: 
     tibble,

@@ -1,4 +1,7 @@
 
+[![Travis build
+status](https://travis-ci.com/muschellij2/tester.svg?branch=master)](https://travis-ci.com/muschellij2/tester)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # tester
